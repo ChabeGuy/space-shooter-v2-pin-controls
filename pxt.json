@@ -1,5 +1,6 @@
 {
     "name": "Space Shooter v2 (Pin Controls)",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
